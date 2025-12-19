@@ -18,7 +18,8 @@ The service is framework-agnostic and production-safe.
 ---
 
 ## 📐 Architecture 
-<img width="610" height="609" alt="Screenshot 2025-12-20 at 2 10 34 AM" src="https://github.com/user-attachments/assets/767a3260-1b57-4ac9-b78b-e929fbb47048" />
+
+<img width="1024" height="1024" alt="Architecture" src="https://github.com/user-attachments/assets/23949b56-b2ae-429d-9b20-4e017d172559" />
 
 
 ---
