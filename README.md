@@ -1,4 +1,4 @@
-# 🧠 Python LLM Locator Healer Service
+# 🧠 Python LLM Locator and Script Healer Service
 (Flask + DOM Reduction + LLM)
 
 This service provides runtime Selenium locator healing by analyzing the live DOM and a human-readable intent, then safely generating unique, executable locators.
@@ -120,11 +120,14 @@ pip install -r requirements.txt
 ### Environment Variable
 OPENAI_API_KEY=your_key_here
 
-### Start Service
-python healer_api.py
+### Start Service for locators and scripts healing
+**python healer_api.py**
 
 Service runs on:
 http://localhost:9000
+
+**script_healer_api.py**
+Service runs on: python3 -m uvicorn script_healer_api:app --host 0.0.0.0 --port 9001
 
 ---
 
