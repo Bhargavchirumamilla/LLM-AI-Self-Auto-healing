@@ -287,17 +287,6 @@ curl -X POST http://localhost:9001/heal/script \
 
 ---
 
-## 🛡️ Safety Rules (Non-Negotiable)
-
-- ❌ Never heal authentication flows
-- ❌ Never heal payments / security
-- ❌ Never auto-modify test scripts
-- ❌ Never assume business correctness
-- ✅ Always log healed cases
-- ✅ Java decides final outcome
-
----
-
 ## 📊 Recommended Test Results
 
 ```text
@@ -324,4 +313,9 @@ This framework delivers:
 - Enterprise-ready design
 
 **LLM augments QA judgment — it does not replace it.**
+
+## 👤 Author
+
+Bhargav Chirumamilla  
+QA Automation | AI | LLM | Agents
 
