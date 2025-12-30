@@ -133,4 +133,4 @@ Service runs on: python3 -m uvicorn script_healer_api:app --host 0.0.0.0 --port 
 
 ## ✅ Status
 
-Production-ready Python LLM locator healing service
+Production-ready Python LLM locator and scripts healing service
