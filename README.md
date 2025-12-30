@@ -79,7 +79,7 @@ LLM-AI-Self-Auto-healing
 
 ## 📐 Architecture 
 
-<img width="1024" height="1024" alt="Architecture" src="https://github.com/user-attachments/assets/23949b56-b2ae-429d-9b20-4e017d172559" />
+<img width="597" height="786" alt="Screenshot 2025-12-31 at 2 37 15 AM" src="https://github.com/user-attachments/assets/161b56cc-1e1a-4fd5-aa07-d91500a49b5c" />
 
 
 ---
