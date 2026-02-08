@@ -1,7 +1,7 @@
 # 🤖 LLM-AI Self Auto-Healing Framework  
 ### (Locator + Script Auto-Healing for Selenium/PlayWright/Cypress/Webdriver.io and BDD/TestNG)
 
-This repository provides a **safe, enterprise-grade LLM-assisted auto-healing framework** for Selenium automation.  
+This repository provides a **safe, enterprise-grade LLM-assisted auto-healing framework** for Selenium/Playwright/Cypress automation.  
 It supports **two independent healing layers**:
 
 1. **Locator Auto-Healing** – heals broken selectors  
